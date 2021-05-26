@@ -1,22 +1,14 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... **Mecathon App**
-- 🌱 I’m currently learning ... **React Js, C++ and Python (Django and ML)**
-- 👯 I’m looking to collaborate on ... **Python Repositoy**
-- 💬 Ask me about ... *everything!*
+- 🔭 I’m currently working on ... **Club house clone with only Node.js built in libraries**
+- 🌱 I’m currently learning ... **React Js, .NET and Python (Django and for ML purpose)**
+- 👯 I’m looking to collaborate on ... **Any project actually**
+- 💬 Ask me about ... *I don't know... just start a talk and we let see*
 - 📫 How to reach me: ... **bring me a good project to make with u :)**
-- ⚡ Fun fact: ... **I'm a Naval Enginner and Developer, and i desire to bring techonolgy changes is my area.**
+- ⚡ Fun fact: ... **I'm a Developer, and i desire to bring techonolgy changes is my area and grow up as a Programmer.**
 
-### How install me in you project
-- Send me a message tell me about u project and bring me problems to solve
 
-### Example of usage
-- You : Henrique, I have some problem to solve
-- Me : What I can do for you?
-- You : \[ Tell exactly the problem \]
-- Me : Ok, I'll try help you!
-- You : Thanks!
 
 ## 🔥 Profile Stats:
   
