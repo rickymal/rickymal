@@ -1,8 +1,10 @@
 ### Hi there 👋
-
+### Welcome to my GitHub Profile
+I'm a full stack developer & Enginner with ML Knowledge
 
 - 🔭 I’m currently working on ... **Club house clone with only Node.js built in libraries**
-- 🌱 I’m currently learning ... **React Js, .NET and Python (Django and for ML purpose)**
+- 🌱 I know ... **React Js, .NET and Python (Django and for ML purpose)**
+- 🌱 I’m currently learning ... **React Js, Node Js**
 - 👯 I’m looking to collaborate on ... **Any project actually**
 - 💬 Ask me about ... *I don't know... just start a talk and we let see*
 - 📫 How to reach me: ... **bring me a good project to make with u :)**
