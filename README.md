@@ -17,3 +17,9 @@
 - You : \[ Tell exactly the problem \]
 - Me : Ok, I'll try help you!
 - You : Thanks!
+
+## 🔥 Profile Stats:
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymal&theme=midnight-purple)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickymal&show_icons=true&theme=midnight-purple) 
