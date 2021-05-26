@@ -20,6 +20,6 @@
 
 ## 🔥 Profile Stats:
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymal&theme=midnight-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickymal&theme=gotham)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickymal&show_icons=true&theme=midnight-blue) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickymal&show_icons=true&theme=gotham) 
