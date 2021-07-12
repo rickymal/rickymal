@@ -2,11 +2,11 @@
 ### Welcome to my GitHub Profile
 I'm a full stack developer & Enginner with ML Knowledge
 
-- 🔭 I’m currently working on ... **Simples Library repository with only Node.js built in libraries**
-- 🌱 I know ... **React Js, .NET and Python (Django and for ML purpose)**
+- 🔭 I’m currently working on ... **Project Ongo**
+- 🌱 I know ... **Node.js, Flask, Django, React Js, .NET, Tensorflow,**
 - 🌱 I’m currently learning ... **React Js, Node Js**
-- 👯 I’m looking to collaborate on ... **Any project actually**
-- 💬 Ask me about ... *I don't know... just start a talk and we let see*
+- 👯 I’m looking to collaborate on ... **MLflow, Python  Language**
+- 💬 Ask me about ... *That's true that u a graduated in naval enginnering and actually is working in Developing*
 - 📫 How to reach me: ... **bring me a good project to make with u :)**
 - ⚡ Fun fact: ... **I'm a Developer, and i desire to bring techonolgy changes is my area and grow up as a Programmer.**
 
